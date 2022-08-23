@@ -172,3 +172,80 @@ hr{
 .plan-feature-box3>h3{
      font-size: 25px;
 }
+
+
+
+
+.support-area{
+     padding: 20px; 
+     margin-bottom: 100px;
+     
+}
+.support-heading{
+     width: 50%;
+     margin: auto;
+     text-align: center;
+}
+.support-heading>h2{
+     
+     font-size: 4rem;
+     font-weight: 600;
+     line-height: 1;
+     padding-top: 60px;
+}
+.support-heading>p{
+     font-size: 22px;
+     padding-bottom: 5rem;
+}
+.support-box{
+     width: 70%;
+     margin: auto;
+     display: flex;
+     justify-content: space-between;
+     text-align: center;
+     padding: 20px;
+}
+.box>p{
+     margin-right: 20px ;
+}
+
+
+
+.subscribe_now_section{
+     background-color: #e3f6f5;
+     margin-top: -50px;
+     padding-top: 50px;
+     padding-bottom: 100px;
+     text-align: center;
+ }
+ .subscribe_now_section form{
+     margin-top: 50px;
+ }
+ 
+ .subscribe_now_section form input{
+     background-color: #d9d9d9;
+     border: none;
+     border-radius: 5px 0 0 5px;
+     padding: 10px 15px;
+ }
+ .subscribe_now_section form button{
+     background-color: lightseagreen;
+     border: none;
+     border-radius: 0 5px 5px 0;
+     padding: 10px 15px;
+     color: #fff;
+ }
+
+
+ footer{
+     color: #fff;
+     background-color: #000;
+     padding-top: 50px;
+     padding-bottom: 50px;
+     text-align: center;
+ }
+ footer h3{
+     color: lightseagreen;
+     font-size: 40px;
+     font-family: 'Brush Script MT', cursive;
+ }

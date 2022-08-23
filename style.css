@@ -48,7 +48,7 @@ body{
      margin-bottom: 20px;
       width: 70%;
      margin: auto; 
-     margin-bottom: 40px;
+     margin-bottom: 7rem;
 }
 .amount-area>h2{
      font-size: 4rem;
@@ -98,4 +98,77 @@ body{
 }
 hr{
      border: 1px solid gray;
+}
+.donate-plan-area{
+     background-color: lightgray;
+     padding: 20px; 
+     margin-bottom: 30px;
+     
+}
+.plan-heading{
+     width: 50%;
+     margin: auto;
+     text-align: center;
+}
+.plan-heading>h2{
+     
+     font-size: 4rem;
+     font-weight: 600;
+     line-height: 1;
+     padding-top: 60px;
+}
+.plan-heading>p{
+     font-size: 22px;
+     padding-bottom: 5rem;
+}
+.donate-plan-box{
+     width: 75%;
+     margin: auto;
+     padding-bottom: 80px;
+     display: flex;
+     justify-content: space-between;
+}
+
+.plan-feature-box1{
+     width: 300px;
+     height: 300px;
+     /* border: 2px solid red; */
+     padding: 40px;
+     background-color: lightblue;
+     box-shadow: 5px 5px 5px solid gray;
+     border-radius: 5px;
+     
+}
+.plan-feature-box2{
+     width: 300px;
+     height: 300px;
+     /* border: 2px solid red; */
+     padding: 40px;
+     background-color: lightcoral;
+     box-shadow: 5px 5px 5px solid gray;
+     border-radius: 5px;
+     
+}
+.plan-feature-box3{
+     width: 300px;
+     height: 300px;
+     /* border: 2px solid red; */
+     padding: 40px;
+     background-color: lightgreen;
+     box-shadow: 5px 5px 5px solid gray;
+     border-radius: 5px;
+     
+}
+.plan-feature img{
+     padding-top: 20px;
+     margin-top: 20px;
+}
+.plan-feature-box1>h3{
+     font-size: 25px;
+}
+.plan-feature-box2>h3{
+     font-size: 25px;
+}
+.plan-feature-box3>h3{
+     font-size: 25px;
 }
